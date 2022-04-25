@@ -1,0 +1,9 @@
+#wrapp {
+    width: 70%;
+    height: 700px;
+    margin: 10px auto;
+}
+
+.markiraj {
+    background-color: yellow;
+}
